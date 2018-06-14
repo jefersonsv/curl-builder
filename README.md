@@ -31,5 +31,5 @@ curl ^
  "-H MS-ASPNETCORE-TOKEN: 5dccf8cb-2956-43d3-bc40-a1654bf56402" ^
  "-H X-Original-Proto: http" ^
  "-H X-Original-For: 127.0.0.1:49179" ^
- https://usuario:senha@localhost:44306/?nome=dfdf&idade=23
+ https://localhost:44306/
  ```
