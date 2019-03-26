@@ -1,9 +1,9 @@
 # Curl Builder
 
-This library can render the curl command line (cmd or bash) from a HttpContext
+This library can render the curl command line (cmd or bash) from a HttpContext.
 
 # Useful
-It is used to help debugging, log and trace incoming request
+It is used to help debugging, log and trace incoming request.
 
 # Sample
 The sample project **aspnet-core-mvc** print to output visualstudio window when income a request
